@@ -10,3 +10,6 @@
    
   ## Assignment 3:
    Order Management application for processing customer orders for a warehouse. Implemented using layered architecture, reflection techniques and with a relational database.
+   
+  ## Assignment 4:
+   Restaurant Manager system having three users: administrator, waiter and chef. The administrator can add, delete and edit the restaurant's menu, waiters can add a new order for a table and generate it's bill and chefs get notified each time they have to prepare food for an order.
