@@ -13,3 +13,6 @@
    
   ## Assignment 4:
    Restaurant Manager system having three users: administrator, waiter and chef. The administrator can add, delete and edit the restaurant's menu, waiters can add a new order for a table and generate it's bill and chefs get notified each time they have to prepare food for an order.
+   
+  ## Assignment 5:
+   Application for analysing the behaviour of a person recorded by a set of sensors installed in his/her house. The historical log of the person’s activity is stored as tuples (start_time, end_time, activity_label). The data is spread over several days as many entries in the log Activities.txt, taken from and downloadable at http://coned.utcluj.ro/~salomie/PT_Lic/4_Lab/Assignment_5/
