@@ -1,0 +1,9 @@
+Breakfast had a total duration of: 171 minutes
+Toileting had a total duration of: 124 minutes
+Grooming had a total duration of: 139 minutes
+Sleeping had a total duration of: 7856 minutes
+Leaving had a total duration of: 1658 minutes
+Spare_Time/TV had a total duration of: 8510 minutes
+Showering had a total duration of: 85 minutes
+Snack had a total duration of: 4 minutes
+Lunch had a total duration of: 310 minutes

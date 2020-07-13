@@ -1,0 +1,126 @@
+Day 332:
+	Breakfast 1 times
+	Grooming 2 times
+	Toileting 3 times
+	Sleeping 1 times
+	Leaving 1 times
+	Spare_Time/TV 4 times
+	Snack 1 times
+	Showering 1 times
+	Lunch 1 times
+Day 333:
+	Breakfast 1 times
+	Grooming 3 times
+	Toileting 4 times
+	Sleeping 1 times
+	Leaving 1 times
+	Spare_Time/TV 6 times
+	Snack 1 times
+	Showering 1 times
+	Lunch 1 times
+Day 334:
+	Breakfast 1 times
+	Grooming 2 times
+	Toileting 6 times
+	Sleeping 1 times
+	Leaving 1 times
+	Spare_Time/TV 8 times
+	Snack 2 times
+	Showering 1 times
+	Lunch 1 times
+Day 335:
+	Breakfast 1 times
+	Toileting 2 times
+	Grooming 3 times
+	Sleeping 1 times
+	Leaving 1 times
+	Spare_Time/TV 6 times
+	Showering 1 times
+	Lunch 1 times
+Day 336:
+	Breakfast 1 times
+	Toileting 3 times
+	Grooming 4 times
+	Sleeping 1 times
+	Spare_Time/TV 7 times
+	Snack 1 times
+	Showering 1 times
+	Lunch 1 times
+Day 337:
+	Breakfast 1 times
+	Grooming 3 times
+	Toileting 2 times
+	Sleeping 1 times
+	Leaving 1 times
+	Spare_Time/TV 4 times
+	Showering 1 times
+Day 338:
+	Breakfast 1 times
+	Grooming 2 times
+	Toileting 4 times
+	Sleeping 1 times
+	Leaving 1 times
+	Spare_Time/TV 6 times
+	Snack 2 times
+	Showering 1 times
+Day 339:
+	Breakfast 1 times
+	Toileting 5 times
+	Grooming 6 times
+	Sleeping 1 times
+	Leaving 2 times
+	Spare_Time/TV 7 times
+	Snack 1 times
+	Showering 1 times
+	Lunch 1 times
+Day 340:
+	Breakfast 1 times
+	Grooming 4 times
+	Toileting 3 times
+	Sleeping 1 times
+	Spare_Time/TV 5 times
+	Snack 1 times
+	Showering 1 times
+	Lunch 1 times
+Day 341:
+	Breakfast 1 times
+	Toileting 6 times
+	Grooming 5 times
+	Sleeping 1 times
+	Leaving 1 times
+	Spare_Time/TV 8 times
+	Snack 2 times
+	Showering 1 times
+	Lunch 1 times
+Day 342:
+	Breakfast 1 times
+	Toileting 1 times
+	Grooming 5 times
+	Sleeping 1 times
+	Leaving 1 times
+	Spare_Time/TV 4 times
+	Showering 1 times
+Day 343:
+	Breakfast 1 times
+	Toileting 2 times
+	Grooming 5 times
+	Sleeping 1 times
+	Leaving 2 times
+	Spare_Time/TV 6 times
+	Showering 1 times
+Day 344:
+	Breakfast 1 times
+	Toileting 1 times
+	Grooming 4 times
+	Sleeping 1 times
+	Leaving 2 times
+	Spare_Time/TV 3 times
+	Showering 1 times
+Day 345:
+	Breakfast 1 times
+	Toileting 2 times
+	Grooming 3 times
+	Sleeping 1 times
+	Spare_Time/TV 3 times
+	Showering 1 times
+	Lunch 1 times
